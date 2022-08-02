@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and extremely zealous JavaScript developer include (React,Vue,Next,Node and ReactNative) with 3 years of experience
 </h3>
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseeb0300&label=Profile%20views&color=0e75b6&style=flat" alt="haseeb0300" /> </p>
 
