@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate and extremely zealous JavaScript developer include (React,Vue,Next,Node and ReactNative) with 3 years of experience
+</h3>
+<ul align="left>
+<li>Experience of working with React-Redux and React Hooks  </li>
+<li>Strong basics of JavaScript, HTML and CSS </li>
+<li>Experience with RESTful APIs and Token Based Authentication </li>
+<li>Familiarity of working on React-Native </li>
+<li>Assist to QA team for testing of different complex scenarios related to requirements </li>
+<li>Assist to Design team for improvising UI/UX to meet business/client requirements </li>
+<li>Proficient in using GIT commands </li>
+<li>Experience of conducting client meetings with efficient manners </li>
+<li>Responsible for communication with on-site team </li>
+<li>Responsible for communication with on-remote-team </li>
+</ul>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseeb0300&label=Profile%20views&color=0e75b6&style=flat" alt="haseeb0300" /> </p>
